@@ -1,2 +1,4 @@
 # ENGR102
-Uploads
+* Ammara Muzaffar
+* github: ammaramuzaffar
+* amuzaff000@citymail.cuny.edu
